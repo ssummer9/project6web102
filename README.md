@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ssummer9/project6web102/blob/main/project6video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap...  
@@ -51,7 +51,7 @@ GIF created with LiceCap...
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had difficulties with making new folders in my codes with aligning the purposes of each folder and file of what code I wanted to add for the code. Overall need a review of React CSS and index CSS.
+I had difficulties with making new folders in my codes with aligning the purposes of each folder and file of what code I wanted to add for the code. Overall need a review of React CSS and index CSS. While recording the video, at the top left, the title of Studio Ghibli Dashboard had been cut off which I could not fix.
 
 ## License
 
