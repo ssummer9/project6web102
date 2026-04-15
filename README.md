@@ -1,9 +1,9 @@
 # project6web102
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - *Studio Ghbili Dashboard*
 
 Submitted by: **Sawaira Summer**
 
-This web app: **insert description**
+This web app: **In this website introduces Studio Ghibli movies made throughout the years with a line graph and bar graph with also a description of each movie when clicked on the movie's title (also represented as the URL). **
 
 Time spent: **8** hours spent in total
 
@@ -11,14 +11,14 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **Clicking on an item in the list view displays more details about it**
+- [X] **Clicking on an item in the list view displays more details about it**
   - Clicking on an item in the dashboard list navigates to a detail view for that item
   - Detail view includes extra information about the item not included in the dashboard view
   - The same sidebar is displayed in detail view as in dashboard view
   - *To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.*
-- [ ] **Each detail view of an item has a direct, unique URL link to that item’s detail view page**
+- [X] **Each detail view of an item has a direct, unique URL link to that item’s detail view page**
   -  *To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.*
-- [ ] **The app includes at least two unique charts developed using the fetched data that tell an interesting story**
+- [X] **The app includes at least two unique charts developed using the fetched data that tell an interesting story**
   - At least two charts should be incorporated into the dashboard view of the site
   - Each chart should describe a different aspect of the dataset
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 - [ ] The site’s customized dashboard contains more content that explains what is interesting about the data 
   - e.g., an additional description, graph annotation, suggestion for which filters to use, or an additional page that explains more about the data
-- [ ] The site allows users to toggle between different data visualizations
+- [X] The site allows users to toggle between different data visualizations
   - User should be able to use some mechanism to toggle between displaying and hiding visualizations 
 
   
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap...  
@@ -51,6 +51,7 @@ GIF created with LiceCap...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had difficulties with making new folders in my codes with aligning the purposes of each folder and file of what code I wanted to add for the code. Overall need a review of React CSS and index CSS.
 
 ## License
 
