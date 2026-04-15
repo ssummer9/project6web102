@@ -1,0 +1,32 @@
+.dashboard-container {
+  display: flex;
+}
+
+.dashboard-content {
+  padding: 2rem;
+  width: 100%;
+}
+
+.charts-row {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.chart-box {
+  background: white;
+  padding: 1rem;
+  border-radius: 12px;
+  flex: 1;
+}
+
+.film-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.film-table th,
+.film-table td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}

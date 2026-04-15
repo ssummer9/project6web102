@@ -1,0 +1,13 @@
+.detail-container {
+  display: flex;
+}
+
+.detail-content {
+  padding: 2rem;
+  width: 100%;
+  max-width: 700px;
+}
+
+.detail-content h1 {
+  margin-top: 0;
+}

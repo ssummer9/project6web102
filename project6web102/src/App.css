@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  background: #f7f9f4;
+}
+
+a {
+  color: #4a6b4f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
