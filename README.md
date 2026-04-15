@@ -1,5 +1,5 @@
 # project6web102
-# Web Development Project 6 - *Studio Ghbili Dashboard*
+# Web Development Project 6 - *Studio Ghibli Dashboard*
 
 Submitted by: **Sawaira Summer**
 
